@@ -1,0 +1,3 @@
+# TopG Music Player
+
+TopG is a feature-rich music player application designed to provide a seamless and enjoyable music listening experience. With TopG, users can play their favorite songs, skip to the next track, and enjoy uninterrupted music streaming. The app features a user-friendly interface, allowing easy navigation and control of music playback. Whether you're at home or on the go, TopG ensures you have access to your music library with just a few taps. Enjoy a premium music experience with high-quality audio playback and a variety of customization options to suit your listening preferences.
